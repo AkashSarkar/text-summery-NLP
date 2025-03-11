@@ -1,0 +1,19 @@
+# Core libraries
+numpy==2.2.0
+pandas==2.2.3
+scikit-learn==1.6.0
+
+# NLP essentials
+nltk==3.9.1
+spacy>=3.5.0,<3.7.0
+networkx==3.4.2
+
+# Evaluation
+rouge-score==0.1.2
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Optional - for improved performance
+tqdm==4.67.1
