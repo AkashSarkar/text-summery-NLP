@@ -1,5 +1,6 @@
-import DataAnalyzer
-from TextProcessor import TextPreprocessor
+from data_analyzer import DataAnalyzer
+from text_processor import TextPreprocessor
+import pandas as pd
 
 
 class DataProcessor:
